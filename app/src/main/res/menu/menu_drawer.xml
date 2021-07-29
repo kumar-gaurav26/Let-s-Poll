@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profile"/>
+
+    <item
+        android:id="@+id/setting"
+        android:title="@string/Setting"
+        android:icon="@drawable/ic_setting"/>
+    <item
+        android:id="@+id/feedback"
+        android:title="@string/Feedback"
+        android:icon="@drawable/ic_feedback"/>
+    <item
+        android:id="@+id/logout"
+        android:title="@string/Logout"
+        android:icon="@drawable/logout"/>
+    <item
+        android:id="@+id/aboutapp"
+        android:title="@string/AboutApp"
+        android:icon="@drawable/aboutapp"/>
+</menu>
