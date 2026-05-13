@@ -137,22 +137,6 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-(Add screenshot here)
-
-## Create Poll Page
-
-(Add screenshot here)
-
-## Live Results Dashboard
-
-(Add screenshot here)
-
----
-
 # 🔄 Workflow
 
 1. User signs up or logs in
